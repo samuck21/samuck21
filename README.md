@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi Welcome, I'm Samuel Vazquez 👋
 
+### About me 
+### .Mobile Developer
 <!--
 **samuck21/samuck21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

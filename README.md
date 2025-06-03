@@ -2,7 +2,7 @@
 
 ### About me 
 ### .Mobile Developer
-### ⚙️ &nbsp;GitHub Analytics
+
 
 <h2 >Tecnologías conocidas</h2>
 <!--tech stack icons-->
@@ -93,6 +93,7 @@
 </div>                                                             
 </table>  
 
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/samuck21">

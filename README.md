@@ -78,7 +78,7 @@
                <br>
 <h3 align="center">App Formula General</h3>
 <div align="center">                                       
-<a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank"><img src="https://www.techspot.com/images2/downloads/topdownload/2025/01/2025-01-09-ts3_thumbs-d9e.png" width="400" alt="Formula General"></a>
+<a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank"><img src="https://github.com/samuck21/EcommerceApp/blob/master/app/src/main/res/drawable/banner.jpg" width="400" alt="Formula General"></a>
 <br>
 <p>
 <a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank">

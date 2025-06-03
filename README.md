@@ -19,7 +19,7 @@
 </a>
 </p>
 <p>App Ecommerce</p>
-   <img src="https://skillicons.dev/icons?i=androidstudio,compose,kotlin,nestjs,typescript,mysql&perline=12" />
+   <img src="https://skillicons.dev/icons?i=androidstudio,jetpack,kotlin,nestjs,typescript,mysql&perline=12" />
 </div>
                                                                                       
 </td>

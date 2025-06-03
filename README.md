@@ -8,7 +8,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,css,html,js,nodejs,mysql,sqlite,firebase,git,github,postman,vscode,linux,c++,arduino,unity,reactnative&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,html,js,nodejs,mysql,sqlite,firebase,git,github,postman,vscode,linux,arduino,unity&perline=12" />
   </a>
 </p>
 <br>

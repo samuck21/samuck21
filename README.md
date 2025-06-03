@@ -14,6 +14,12 @@
 <br>
 <!-------------------------->
 
+<div class="scroll-container">
+  <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Forest">
+  <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Northern Lights">
+  <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Mountains">
+</div>
+
 <table>
 <tr>
 <td width="50%">

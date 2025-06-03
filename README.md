@@ -93,7 +93,7 @@
 </div>                                                             
 </table>  
 
-### ⚙️ &nbsp;GitHub Analytics
+<h2 >⚙️Tecnologías conocidas</h2>
 
 <p align="center">
 <a href="https://github.com/samuck21">

@@ -109,8 +109,19 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samuck21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-
+document.addEventListener('DOMContentLoaded', function () {
+    new Splide('.splide', {
+        perPage: 3,
+        breakpoints: {
+            768: {
+                perPage: 2,
+            },
+            480: {
+                perPage: 1,
+            },
+        }
+    }).mount();
+});
 
 <!--
 **samuck21/samuck21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

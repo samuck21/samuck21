@@ -16,7 +16,7 @@
 <!-------------------------->
 
 <div class="slider">
-<img src="image1.png" />
+<img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/03/android-studio-logo.png" />
 <img src="image2.png" />
 <img src="image3.png" />
 <img src="image4.png" />

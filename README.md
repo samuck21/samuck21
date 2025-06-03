@@ -4,8 +4,7 @@
 ### .Mobile Developer
 ### ⚙️ &nbsp;GitHub Analytics
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css">
-<script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/js/splide.min.js" defer></script>
+
 <h2 >Tecnologías conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
@@ -16,15 +15,7 @@
 <br>
 <!-------------------------->
 
-<section class="splide p-5" aria-label="Splide Basic HTML Example">
-  <div class="splide__track">
-		<ul class="splide__list">
-      <li class="splide__slide"><h2 class="text-center"><img src="https://alamdtech.com/wp-content/uploads/2023/10/png-1.png" alt="placeholden image"></h2></li>
-			<li class="splide__slide"><h2 class="text-center"><img src="https://alamdtech.com/wp-content/uploads/2023/10/png-1.png" alt="placeholden image"></h2></li>
-			<li class="splide__slide"><h2 class="text-center"><img src="https://alamdtech.com/wp-content/uploads/2023/10/png-1.png" alt="placeholden image"></h2></li>
-		</ul>
-  </div>
-</section>
+
 
 <table>
 <tr>

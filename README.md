@@ -46,7 +46,7 @@
 <td width="50%">
 <h3 align="center">Juego Tablas de multiplicar</h3>
 <div align="center">
-<a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="" width="400" alt="Juego Tablas de multiplicar"></a>
 <p>
 <a href="https://github.com/samuck21/EcommerceApp" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -64,7 +64,7 @@
                <br>
 <h3 align="center">App Formula General</h3>
 <div align="center">                                       
-<a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="" width="400" alt="Formula General"></a>
 <br>
 <p>
 <a href="https://github.com/samuck21/EcommerceApp" target="_blank">

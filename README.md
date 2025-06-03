@@ -19,7 +19,10 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
+  
 </div>
+                                                                                      
+</td>
 <h3 align="center">App Ecommerce Jetpack Compose</h3>
 <div align="center">                                       
 <a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="App Eccommerce"></a>

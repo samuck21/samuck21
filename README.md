@@ -4,7 +4,6 @@
 ### .Mobile Developer
 ### ⚙️ &nbsp;GitHub Analytics
 
-
 <h2 >Tecnologías conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
@@ -14,28 +13,7 @@
 </p>
 <br>
 <!-------------------------->
-
-<div class="slider">
-<img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2018/03/android-studio-logo.png" />
-<img src="image2.png" />
-<img src="image3.png" />
-<img src="image4.png" />
-</div>
-
-<div class="slider-container">  
-  <img
-    class="slider-item"
-    src="https://images.unsplash.com/photo-1580501170961-bb0dbf63a6df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2970&q=80"
-  />
-  <img
-    class="slider-item"
-    src="https://images.unsplash.com/photo-1580501170888-80668882ca0c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
-  />
-  <img
-    class="slider-item"
-    src="https://images.unsplash.com/photo-1572508589584-94d778209dd9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80"
-  />
-</div>  
+ 
 
 <table>
 <tr>

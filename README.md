@@ -19,6 +19,7 @@
 </a>
 </p>
 <p>App Ecommerce</p>
+   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nestjs,typescript,mysql&perline=12" />
 </div>
                                                                                       
 </td>
@@ -38,7 +39,7 @@
 </a>
 </p>
 </p> App Delivery</p>
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nestjs&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nestjs,typescript,mysql&perline=12" />
 </div>                                                             
 </table>  
 

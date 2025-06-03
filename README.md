@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/samuck21/EcommerceApp" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-Backend?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>App Ecommerce</p>

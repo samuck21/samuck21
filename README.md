@@ -59,7 +59,7 @@
 <td width="50%">
 <h3 align="center">Juego Tablas de multiplicar</h3>
 <div align="center">
-<a href="https://github.com/samuck21/Tablas-de-multiplicar-juegoPRO-1.0.0v" target="_blank"><img src="https://www.techspot.com/images2/downloads/topdownload/2025/01/2025-01-09-ts3_thumbs-d9e.png" width="400" alt="Juego Tablas de multiplicar"></a>
+<a href="https://github.com/samuck21/Tablas-de-multiplicar-juegoPRO-1.0.0v" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/Group%201.png" width="400" alt="Juego Tablas de multiplicar"></a>
 <p>
 <a href="https://github.com/samuck21/Tablas-de-multiplicar-juegoPRO-1.0.0v" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">

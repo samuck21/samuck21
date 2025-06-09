@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/samuck21/Delivery" target="_blank">
-<img src="https://img.shields.io/badge/-Backend-ff9?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-Capturas App-ff9?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 </p> App Delivery</p>
@@ -68,7 +68,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/samuck21/Tablas-de-multiplicar-juegoPRO-1.0.0v" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-Capturas App-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>App Ecommerce</p>
@@ -88,7 +88,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<img src="https://img.shields.io/badge/-Capturas App-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
 </p> App Delivery</p>

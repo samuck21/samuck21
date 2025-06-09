@@ -1,14 +1,14 @@
 ## Hi Welcome, I'm Samuel Vazquez 👋
 
 ### About me 
-### .Mobile Developer
+### Mobile Developer
 
 
 <h2 >Tecnologías conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,html,js,nodejs,mysql,sqlite,firebase,git,github,postman,vscode,nestjs,typescript,arduino,unity&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,kotlin,html,js,nodejs,mysql,sqlite,firebase,git,github,postman,vscode,nestjs,typescript,arduino,unity&perline=12" />
   </a>
 </p>
 <br>
@@ -27,6 +27,9 @@
 </a>
 <a href="https://github.com/samuck21/EcommerceApp" target="_blank">
 <img src="https://img.shields.io/badge/-Backend-ff9?style=for-the-badge&color=fbfc40">
+</a>
+  <a href="https://github.com/samuck21/EcommerceApp" target="_blank">
+<img src="https://img.shields.io/badge/-Capturas App-ff9?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p>App Ecommerce</p>

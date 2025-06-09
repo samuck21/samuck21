@@ -25,10 +25,10 @@
 <a href="https://github.com/samuck21/EcommerceApp" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/samuck21/EcommerceApp" target="_blank">
+<a href="https://github.com/samuck21/ecommerce-backend-main" target="_blank">
 <img src="https://img.shields.io/badge/-Backend-ff9?style=for-the-badge&color=fbfc40">
 </a>
-  <a href="https://github.com/samuck21/EcommerceApp" target="_blank">
+  <a href="https://github.com/samuck21/CapturesApps" target="_blank">
 <img src="https://img.shields.io/badge/-Capturas App-ff9?style=for-the-badge&color=fbfc40">
 </a>
 </p>
@@ -67,7 +67,7 @@
 <a href="https://github.com/samuck21/Tablas-de-multiplicar-juegoPRO-1.0.0v" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/samuck21/Tablas-de-multiplicar-juegoPRO-1.0.0v" target="_blank">
+<a href="https://github.com/samuck21/CapturesApps" target="_blank">
 <img src="https://img.shields.io/badge/-Capturas App-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
@@ -87,7 +87,7 @@
 <a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank">
+<a href="https://github.com/samuck21/CapturesApps" target="_blank">
 <img src="https://img.shields.io/badge/-Capturas App-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>

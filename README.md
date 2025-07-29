@@ -1,6 +1,8 @@
 ## Hi Welcome, I'm Samuel Vazquez 👋
 
 ### About me 
+
+Control and Automation Engineer with over 3 years of experience in software development, specializing in creating software for embedded systems, mobile applications, and video game development. I have experience with programming languages. Seeking the opportunity to share my passion for programming, always staying at the forefront of learning new technologies to continue innovating and developing software that meets the requirements of users.
 ### Mobile Developer
 
 

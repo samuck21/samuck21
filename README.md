@@ -10,7 +10,7 @@ Control and Automation Engineer with over 3 years of experience in software deve
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,kotlin,html,js,nodejs,mysql,sqlite,firebase,git,github,postman,vscode,nestjs,typescript,arduino,unity&perline=12" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,kotlin,html,js,nodejs,mysql,sqlite,react,spring,firebase,git,github,postman,vscode,nestjs,typescript,arduino,unity&perline=12" />
   </a>
 </p>
 <br>

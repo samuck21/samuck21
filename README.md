@@ -101,7 +101,7 @@
 <h2 >React projects</h2>
 <table>
 <tr>
-<td width="50%">
+<td width="80%">
 <h3 align="center">GuitarLa Frontend</h3>
 <div align="center">
 <a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/image%201.png" width="400" alt="App Tienda en linea"></a>

@@ -83,7 +83,7 @@
                <br>
 <h3 align="center">App Formula General</h3>
 <div align="center">                                       
-<a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/Group%202.png" width="800" alt="Formula General"></a>
+<a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/Group%202.png" width="400" alt="Formula General"></a>
 <br>
 <p>
 <a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank">
@@ -101,10 +101,10 @@
 <h2 >React projects</h2>
 <table>
 <tr>
-<td width="80%">
+<td width="50%">
 <h3 align="center">GuitarLa Frontend</h3>
 <div align="center">
-<a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/image%201.png" width="400" alt="App Tienda en linea"></a>
+<a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/image%201.png" width="800" alt="App Tienda en linea"></a>
 <p>
 <a href="https://github.com/samuck21/GuitarLa_Frontent" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">

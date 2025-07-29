@@ -2,11 +2,11 @@
 
 ### About me 
 
-Control and Automation Engineer with over 3 years of experience in software development, specializing in creating software for embedded systems, mobile applications, and video game development. I have experience with programming languages. Seeking the opportunity to share my passion for programming, always staying at the forefront of learning new technologies to continue innovating and developing software that meets the requirements of users.
-### Mobile Developer
+##Control and Automation Engineer with over 3 years of experience in software development, specializing in creating software for embedded systems, mobile applications, and ##video game development. I have experience with programming languages. Seeking the opportunity to share my passion for programming, always staying at the forefront of ##learning new technologies to continue innovating and developing software that meets the requirements of users.
 
 
-<h2 >Tecnologías conocidas</h2>
+
+<h2 >Technologies/Tools</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@ Control and Automation Engineer with over 3 years of experience in software deve
 <br>
 <!-------------------------->
  
-<h2 >Proyectos</h2>
+<h2 >Android projects</h2>
 <table>
 <tr>
 <td width="50%">
@@ -97,6 +97,50 @@ Control and Automation Engineer with over 3 years of experience in software deve
    <img src="https://skillicons.dev/icons?i=androidstudio,java&perline=12" />
 </div>                                                             
 </table>  
+
+<h2 >React projects</h2>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">App Ecommerce Jetpack Compose</h3>
+<div align="center">
+<a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/Group%203.png" width="400" alt="App Tienda en linea"></a>
+<p>
+<a href="https://github.com/samuck21/EcommerceApp" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/samuck21/ecommerce-backend-main" target="_blank">
+<img src="https://img.shields.io/badge/-Backend-ff9?style=for-the-badge&color=fbfc40">
+</a>
+  <a href="https://github.com/samuck21/CapturesApps" target="_blank">
+<img src="https://img.shields.io/badge/-Capturas App-ff9?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>App Ecommerce</p>
+   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nestjs,typescript,mysql&perline=12" />
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
+               <br>
+<h3 align="center">App Delivery Jetpack Compose</h3>
+<div align="center">                                       
+<a href="https://github.com/samuck21/Delivery" target="_blank"><img src="https://www.techspot.com/images2/downloads/topdownload/2025/01/2025-01-09-ts3_thumbs-d9e.png" width="400" alt="App Delivery Food"></a>
+<br>
+<p>
+<a href="https://github.com/samuck21/Delivery" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://github.com/samuck21/Delivery" target="_blank">
+<img src="https://img.shields.io/badge/-Capturas App-ff9?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+</p> App Delivery</p>
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nestjs,typescript,mysql&perline=12" />
+</div>                                                             
+</table>  
+
 
 <h2 >⚙️Tecnologías conocidas</h2>
 

@@ -102,43 +102,26 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">App Ecommerce Jetpack Compose</h3>
+<h3 align="center">GuitarLa Frontend</h3>
 <div align="center">
-<a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/Group%203.png" width="400" alt="App Tienda en linea"></a>
+<a href="https://github.com/samuck21/EcommerceApp" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/image%201.png" width="400" alt="App Tienda en linea"></a>
 <p>
-<a href="https://github.com/samuck21/EcommerceApp" target="_blank">
+<a href="https://github.com/samuck21/GuitarLa_Frontent" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://github.com/samuck21/ecommerce-backend-main" target="_blank">
+<a href="https://github.com/samuck21/GuitarLa_Frontent" target="_blank">
 <img src="https://img.shields.io/badge/-Backend-ff9?style=for-the-badge&color=fbfc40">
 </a>
   <a href="https://github.com/samuck21/CapturesApps" target="_blank">
 <img src="https://img.shields.io/badge/-Capturas App-ff9?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>App Ecommerce</p>
-   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nestjs,typescript,mysql&perline=12" />
+<p>GuitarLa Frontend</p>
+   <img src="https://skillicons.dev/icons?i=react,javascript,typescript,CSS&perline=12" />
 </div>
                                                                                       
 </td>
-
-<td width="50%">
-               <br>
-<h3 align="center">App Delivery Jetpack Compose</h3>
-<div align="center">                                       
-<a href="https://github.com/samuck21/Delivery" target="_blank"><img src="https://www.techspot.com/images2/downloads/topdownload/2025/01/2025-01-09-ts3_thumbs-d9e.png" width="400" alt="App Delivery Food"></a>
-<br>
-<p>
-<a href="https://github.com/samuck21/Delivery" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://github.com/samuck21/Delivery" target="_blank">
-<img src="https://img.shields.io/badge/-Capturas App-ff9?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-</p> App Delivery</p>
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nestjs,typescript,mysql&perline=12" />
-</div>                                                             
+                                                
 </table>  
 
 

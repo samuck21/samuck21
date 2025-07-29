@@ -44,7 +44,7 @@ Control and Automation Engineer with over 3 years of experience in software deve
                <br>
 <h3 align="center">App Delivery Jetpack Compose</h3>
 <div align="center">                                       
-<a href="https://github.com/samuck21/Delivery" target="_blank"><img src="https://www.techspot.com/images2/downloads/topdownload/2025/01/2025-01-09-ts3_thumbs-d9e.png" width="400" alt="App Delivery Food"></a>
+<a href="https://github.com/samuck21/Delivery" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/Group%204%20(1).png" width="400" alt="App Delivery Food"></a>
 <br>
 <p>
 <a href="https://github.com/samuck21/Delivery" target="_blank">

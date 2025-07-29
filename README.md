@@ -83,7 +83,7 @@
                <br>
 <h3 align="center">App Formula General</h3>
 <div align="center">                                       
-<a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/Group%202.png" width="400" alt="Formula General"></a>
+<a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank"><img src="https://github.com/samuck21/CapturesApps/blob/main/Group%202.png" width="800" alt="Formula General"></a>
 <br>
 <p>
 <a href="https://github.com/samuck21/Formula-General-PRO-1.0.7v-2022" target="_blank">
